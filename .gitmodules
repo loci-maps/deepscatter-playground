@@ -1,0 +1,6 @@
+[submodule "deepscatter"]
+	path = deepscatter
+	url = https://github.com/nomic-ai/deepscatter.git
+[submodule "fractal-embeddings"]
+	path = fractal-embeddings
+	url = https://github.com/loci-maps/fractal-embeddings.git
